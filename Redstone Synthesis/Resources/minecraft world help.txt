@@ -1,0 +1,14 @@
+In order to use Redstone Synthesis you must first specify a directory to the folder
+containing all your Minecraft worlds, and also the name of the folder containing
+the world you want to use.
+
+Enter the directory for all your saves using forward slashes (/) instead of backslashes, 
+otherwise it will cause an error.
+
+Example of directory entry:
+C:/Users/user1/AppData/Roaming/.minecraft/saves
+
+To enter the folder name of your world, just enter it as it appears in your files.
+
+Example of world folder entry:
+New World
